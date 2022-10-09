@@ -1,0 +1,15 @@
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\bin\Debug\net6.0\practical_task_47.exe
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\bin\Debug\net6.0\practical_task_47.deps.json
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\bin\Debug\net6.0\practical_task_47.runtimeconfig.json
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\bin\Debug\net6.0\practical_task_47.dll
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\bin\Debug\net6.0\practical_task_47.pdb
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.csproj.AssemblyReference.cache
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.GeneratedMSBuildEditorConfig.editorconfig
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.AssemblyInfoInputs.cache
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.AssemblyInfo.cs
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.csproj.CoreCompileInputs.cache
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.dll
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\refint\practical_task_47.dll
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.pdb
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\practical_task_47.genruntimeconfig.cache
+D:\введениее в прагромирование\семинары\seminar_7\Take_seminar\practical_task_47\obj\Debug\net6.0\ref\practical_task_47.dll
